@@ -1,13 +1,18 @@
-## Hi there 👋   
-**ShaswatSubudhi/ShaswatSubudhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm Shaswat Subudhi
 
-Here are some ideas to get you started:
+🚀 Passionate about coding, problem-solving, and building awesome projects.  
+💡 "Turning coffee into code, one bug at a time."  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🔧 Technologies & Skills  
+- 💻 Languages: Java, Python, HTML, CSS  
+- 🔧 Tools: Git, VS Code, IntelliJ  
+
+## 📈 GitHub Stats  
+![Shaswat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaswatSubudhi&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaswatSubudhi&layout=compact&theme=dark)  
+
+## 🌍 Connect with Me  
+- 🔗 [LinkedIn](#)  
+- 📸 [Instagram](#)  
+
+Let's build something amazing! 🚀  
