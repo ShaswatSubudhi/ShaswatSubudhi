@@ -13,6 +13,6 @@
 
 ## 🌍 Connect with Me  
 - 🔗 [LinkedIn](#)  
-- 📸 [Instagram](#)  
+- 📸 [Instagram](https://www.instagram.com/shaswat_subudhi/)  
 
 Let's build something amazing! 🚀  
