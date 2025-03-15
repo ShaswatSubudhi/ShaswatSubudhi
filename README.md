@@ -3,7 +3,7 @@
 🚀 Passionate about coding, problem-solving, and building awesome projects.  
 💡 **"Turning coffee into code, one bug at a time."**  
 
-![Profile Banner](https://user-images.githubusercontent.com/your-image-link.png)  
+![Profile Banner](https://raw.githubusercontent.com/your-username/your-repo/main/banner.png)  
 
 ## 🔧 Technologies & Skills  
 - 💻 **Languages:** Java, Python, HTML, CSS  
@@ -20,4 +20,5 @@
 ---
 
 ✨ Always learning, always coding. Let's build something amazing! 🚀  
+
 
