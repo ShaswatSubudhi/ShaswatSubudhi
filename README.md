@@ -1,9 +1,11 @@
 # Hi there! 👋 I'm Shaswat Subudhi  
 
-🚀 Passionate about coding, problem-solving, and building awesome projects.  
+🚀 Passionate about coding, problem-solving, and building awesome projects.
+📖 I'm enrolled in Siksha 'O' Anusandhan University to pursue a B-Tech in Computer Science Engineering.
+🌱 Currently, I'm learning Python & AiMl.
 💡 **"Turning coffee into code, one bug at a time."**  
 
-<img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="100" />
+<img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="300" />
 ## 🔧 Technologies & Skills  
 - 💻 **Languages:** Java, Python, HTML, CSS  
 - 🔧 **Tools:** Git, VS Code, IntelliJ  
