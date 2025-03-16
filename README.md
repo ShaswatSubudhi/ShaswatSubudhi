@@ -35,7 +35,8 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 </div>  
 
-<h1 style="align=center">📈 GitHub Stats</h1>  
+<h1 style="align=center">📈 GitHub Stats</h1>
+
 ![Shaswat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaswatSubudhi&show_icons=true&theme=dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShaswatSubudhi&theme=transparent&hide_border=true&border_radius=5&short_numbers=true&sideLabels=EB5454)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaswatSubudhi&layout=compact&theme=dark)
