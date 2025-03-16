@@ -3,7 +3,7 @@
 🚀 Passionate about coding, problem-solving, and building awesome projects.  
 💡 **"Turning coffee into code, one bug at a time."**  
 
-![Profile Banner](https://raw.githubusercontent.com/your-ShaswatSubudhi /your-repo/main/https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)  
+![Profile Banner]https://raw.githubusercontent.com/your-ShaswatSubudhi /README.md/main/https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif 
 
 ## 🔧 Technologies & Skills  
 - 💻 **Languages:** Java, Python, HTML, CSS  
