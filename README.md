@@ -5,7 +5,7 @@
 </div>
 
 - 🚀 Passionate about coding, problem-solving, and building awesome projects.
-- 📖 I am pursuing B.Tech in Computer Science Engineering at Siksha 'O' Anusandhan University.
+- 📖 I am pursuing a B.Tech in Computer Science Engineering at Siksha 'O' Anusandhan University.
 - 🌱 Currently, I'm learning Python & AiMl.
 
 💡 **"Turning coffee into code, one bug at a time."**  
