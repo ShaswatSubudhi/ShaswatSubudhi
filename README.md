@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm Shaswat Subudhi  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=F75C7E&center=true&vCenter=true&width=800&height=50&lines=👋+Hello%2C+Visitors+Welcome+to+My+GitHub+Profil!;🚀+I+am+Shaswat+Subudhi!;💻+Passionate+about+Coding%2C+Tech%2C+and+Innovation!;🔹+Always+learning+and+building+awesome+projects!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=F75C7E&center=true&vCenter=true&width=800&height=50&lines=👋+Hello+Visitors%2C+Welcome+to+My+GitHub+Profile!;🚀+I+am+Shaswat+Subudhi!;💻+Passionate+about+Coding%2C+Tech%2C+and+Innovation!;🔹+Always+learning+and+building+awesome+projects!" />
 </div>
 
 - 🚀 Passionate about coding, problem-solving, and building awesome projects.
-- 📖 I'm enrolled in Siksha 'O' Anusandhan University to pursue a B-Tech in Computer Science Engineering.
+- 📖 I am pursuing B.Tech in Computer Science Engineering at Siksha 'O' Anusandhan University.
 - 🌱 Currently, I'm learning Python & AiMl.
 
 💡 **"Turning coffee into code, one bug at a time."**  
